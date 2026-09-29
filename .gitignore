@@ -190,3 +190,4 @@ db.sqlite3
 .DS_Store
 *.md
 *.yaml
+.DS_Store
